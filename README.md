@@ -1,5 +1,4 @@
-# Diego Quezada Colorado
-**Robotics Engineer** • Computer Vision • Machine Learning • Autonomous Systems
+**Robotics Engineer** • Computer Vision • Machine Learning • Autonomous Systems • Test Engineering
 
 ## About Me
 👋 Hi, I'm Diego, a Robotics and Digital Systems Engineering graduate from [Tecnológico de Monterrey](https://www.tec.mx/en), Querétaro, Mexico.
